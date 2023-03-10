@@ -1,2 +1,0 @@
-# JavaExperts
-Java Experts
